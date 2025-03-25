@@ -1,0 +1,5 @@
+Feature Method,Mean Training Accuracy,Mean Validation Accuracy,Test Accuracy
+TFIDF,1.0,0.974,1.0
+CountVectorizer,1.0,0.961,0.99
+GloVe,0.9690000000000001,0.95,0.95
+Word2Vec,0.9724999999999999,0.944,0.945
